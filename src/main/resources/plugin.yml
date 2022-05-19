@@ -1,0 +1,4 @@
+name: EatTheGround
+version: '${project.version}'
+main: kr.minta.eattheground.EatTheGround
+api-version: 1.18
